@@ -3,5 +3,5 @@
 ### Install
 
 ```sh
-placeholder -o -a -f
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Berkeley-Booglers/rpi-eduroam/master/setup.sh)"
 ```
